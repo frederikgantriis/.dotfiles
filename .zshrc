@@ -73,7 +73,7 @@ ZSH_THEME="jbergantine"
 plugins=(aws docker encode64 git npm sudo yarn zsh-autosuggestions zsh-syntax-highlighting alias-tips)
 
 source $ZSH/oh-my-zsh.sh
-source alias-tips/alias-tips.plugin.zsh
+source .zsh/alias-tips/alias-tips.plugin.zsh
 
 # User configuration
 
