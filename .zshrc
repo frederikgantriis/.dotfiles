@@ -111,6 +111,7 @@ alias tjek-ud='git checkout'
 alias giv-status='git status'
 alias puffe='git push'
 alias update='brew update && brew upgrade'
+alias lg='lazygit'
 eval "$(zoxide init zsh)"
 eval $(thefuck --alias)
 
